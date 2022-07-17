@@ -1,0 +1,9 @@
+dataset = 'FNUC'
+bert_path = '/root/data/hatebert_en/'
+# bert_path = '/root/data/bert_en_base/'
+lr = 2e-5
+epoch = 20
+batch_size = 256
+max_sen_len = 50
+nclass = 2
+n_fold = 10
