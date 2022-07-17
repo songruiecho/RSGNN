@@ -1,1 +1,3 @@
 The dir for datas and Dataloader and Dataprocesser.
+
+As the checkpoints for HateBERT is to large, we only upload the original data sets.
